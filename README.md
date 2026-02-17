@@ -63,7 +63,7 @@ A [Vite](https://vitejs.dev/) powered WebExtension ([Chrome](https://developer.c
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-webext/generate).
+[Create a repo from this template on GitHub](https://github.com/virlatinus/chrome-extension-vue3-boilerplate/generate).
 
 ### Clone to local
 
@@ -72,7 +72,7 @@ If you prefer to do it manually with the cleaner git history
 > If you don't have pnpm installed, run: npm install -g pnpm
 
 ```bash
-npx degit antfu/vitesse-webext my-webext
+npx degit virlatinus/chrome-extension-vue3-boilerplate my-webext
 cd my-webext
 pnpm i
 ```
@@ -115,7 +115,7 @@ pnpm dev-firefox
 
 If you have a web browser, you can get a fully pre-configured development environment with one click:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/antfu/vitesse-webext)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/virlatinus/chrome-extension-vue3-boilerplate)
 
 ### Build
 
